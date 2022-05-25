@@ -1,4 +1,4 @@
-# Argument-Implementation-on-Terminal
+# Python-Argument-Implementation-on-Terminal
 With this py file, argument values ​​can be changed via terminal.
 
 First of all download this file
